@@ -9,4 +9,4 @@
 
 :date:
 
-(BrotherBirds.jpg "鸚鵡兄弟")
+![BrotherBirds](BrotherBirds.jpg "鸚鵡兄弟")
